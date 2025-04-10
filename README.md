@@ -40,7 +40,7 @@ npm run dev
 
 ### You should see the search app running!
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```bash
 search-app/
@@ -54,25 +54,25 @@ search-app/
 └─ vite.config.js
 ```
 
-✅ Features
+## ✅ Features
 Real-time search filtering
 
 Fast build/start time using Vite
 
 Clean and minimal structure for learning React
 
-📝 Notes
+## 📝 Notes
 This project was created as part of my React learning journey.
 
 You can easily expand it to use an API (like GitHub Search or PokéAPI).
 
-📦 Build for production
+## 📦 Build for production
 
 ```bash
 npm run build
 ```
 
-🔗 Live Demo
+## 🔗 Live Demo
 （後ほどVercel等にデプロイしたらここにURLを追記）
 
 📄 License

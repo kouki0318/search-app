@@ -19,3 +19,62 @@ Follow the steps below to run this project locally.
 ```bash
 git clone https://github.com/your-username/search-app.git
 cd search-app
+```
+### 2. Install dependencie
+
+```bash
+npm install
+```
+
+### 3. Run the development server
+
+```bash
+npm run dev
+```
+
+### Open your browser and navigate to:
+
+```bash
+[npm run dev](http://localhost:5173)
+```
+
+### You should see the search app running!
+
+📁 Project Structure
+
+```bash
+search-app/
+├─ public/
+├─ src/
+│  ├─ assets/
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ index.html
+├─ package.json
+└─ vite.config.js
+```
+
+✅ Features
+Real-time search filtering
+
+Fast build/start time using Vite
+
+Clean and minimal structure for learning React
+
+📝 Notes
+This project was created as part of my React learning journey.
+
+You can easily expand it to use an API (like GitHub Search or PokéAPI).
+
+📦 Build for production
+
+```bash
+npm run build
+```
+
+🔗 Live Demo
+（後ほどVercel等にデプロイしたらここにURLを追記）
+
+📄 License
+MIT © 2025 kouki0318
+

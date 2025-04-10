@@ -73,7 +73,7 @@ npm run build
 ```
 
 ## 🔗 Live Demo
-（後ほどVercel等にデプロイしたらここにURLを追記）
+(https://search-app-hazel-tau.vercel.app/)
 
 📄 License
 MIT © 2025 kouki0318
